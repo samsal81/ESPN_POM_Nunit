@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPN_POM_Nunit", "ESPN_POM_Nunit.csproj", "{96A969C3-BC5E-499F-BA54-E2E1C4EBD87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A969C3-BC5E-499F-BA54-E2E1C4EBD87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A969C3-BC5E-499F-BA54-E2E1C4EBD87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A969C3-BC5E-499F-BA54-E2E1C4EBD87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A969C3-BC5E-499F-BA54-E2E1C4EBD87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9EFED7-170C-4135-9A7D-385A336C168F}
+	EndGlobalSection
+EndGlobal
