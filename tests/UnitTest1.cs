@@ -27,7 +27,7 @@ namespace ESPN_POM_Nunit
         }
 
         [Test]
-        public void Test1()
+        public void SaveHeadlineAndTakePageScreenshot()
         {
             homePage HomeP = new homePage(driver);
             HomeP.saveHeadline();
